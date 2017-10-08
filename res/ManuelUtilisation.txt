@@ -1,0 +1,27 @@
+						Manuel d'utilisation
+
+
+Pour commencer à utiliser notre application, il faut se connecter à une base de données.
+
+Pour cela il faut cliquer sur la croix blanche sur fond vert, un popup va alors apparaître et ce dernier va vous demandez de renseigner le nom de la connexion ainsi que votre identifiant et mot de passe d'Oracle.
+
+Une fois connecté, vous allez retrouver toutes les tables déjà implémentées d'Oracle dans l'onglet "Base de données" sous forme d'arbre.
+
+Vous pouvez alors cliquer sur l'une de ces dernières pour en afficher le contenu. Sur cette table vous avez la possibilité d'y rajouter une colonne ou une ligne en cliquant sur les boutons à droite de l'écran. Une fois que vous cliquez sur l'un de ces boutons le reste est très intuitif.
+
+Si l'envie vous vient de créer ou supprimer une table pas de souci, vous pouvez le faire grâce aux boutons "Créer une table" et "Supprimer une table". Nous avons aussi ajouter une petite fonctionnalité bien sympathique qui génère automatiquement le code SQL de la création de table.
+
+Si vous êtes un adepte de l'écriture du code SQL, vous pouvez faire toutes les manipulations précédemment citées dans un script. Il vous suffit pour cela de créer un nouveau fichier, une nouvelle fenêtre apparaîtra et vous pourrez alors écrire votre code, de plus avec notre fonctionnalité d'éditeur de texte la coloration syntaxique ainsi que l'affichage des lignes est présente.
+
+Si vous n'avez pas le temps de finir votre code pour X raison, ne vous inquiétez pas, vous avez juste à sauvegarder votre fichier en ".sql" pour ensuite le retrouver.
+
+Vous êtes fier de votre travail et souhaitez l'imprimer pour en garder un souvenir cela est aussi possible avec la fonction d'impression que vous retrouver dans le menu et dans la ToolBar.
+
+Une barre rechercher est a votre disposition pour retrouver un mot dans un code contenant un nombre de lignes assez conséquent.
+
+En bas à droite de la fenêtre vous pourrez retrouver la fonction "Lancer le script" qui va tout simplement exécuter le code SQL préalablement écrit dans l'éditeur de texte, son résultat sera alors affiché dans l'onglet "Résultat". Si erreur il y a, le message d'erreur sera aussi affiché dans l'onglet message prévu à cet effet.
+
+Nous avons aussi ajouté un petit jeu SQL pour tester vos connaissances en codage.
+
+
+Présentation écrite par Alexandre BOUDET et Benoît MARTEL
